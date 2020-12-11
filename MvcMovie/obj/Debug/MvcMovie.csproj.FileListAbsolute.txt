@@ -159,3 +159,7 @@ E:\Learning\C#\asp-net-framwork\MvcMovie\obj\Debug\MvcMovie.csproj.CoreCompileIn
 E:\Learning\C#\asp-net-framwork\MvcMovie\obj\Debug\MvcMovie.csproj.CopyComplete
 E:\Learning\C#\asp-net-framwork\MvcMovie\obj\Debug\MvcMovie.dll
 E:\Learning\C#\asp-net-framwork\MvcMovie\obj\Debug\MvcMovie.pdb
+D:\Research\ASP.NETFramework\MvcMovie\bin\EntityFramework.dll
+D:\Research\ASP.NETFramework\MvcMovie\bin\EntityFramework.SqlServer.dll
+D:\Research\ASP.NETFramework\MvcMovie\bin\EntityFramework.xml
+D:\Research\ASP.NETFramework\MvcMovie\bin\EntityFramework.SqlServer.xml
