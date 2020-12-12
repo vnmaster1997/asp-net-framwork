@@ -163,3 +163,4 @@ D:\Research\ASP.NETFramework\MvcMovie\bin\EntityFramework.dll
 D:\Research\ASP.NETFramework\MvcMovie\bin\EntityFramework.SqlServer.dll
 D:\Research\ASP.NETFramework\MvcMovie\bin\EntityFramework.xml
 D:\Research\ASP.NETFramework\MvcMovie\bin\EntityFramework.SqlServer.xml
+E:\Learning\C#\asp-net-framwork\MvcMovie\obj\Debug\MvcMovie.csprojAssemblyReference.cache
