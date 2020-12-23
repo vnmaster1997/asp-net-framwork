@@ -171,3 +171,4 @@ D:\Research\ASP.NETFramework\MvcMovie\obj\Debug\MvcMovie.Migrations.Initial.reso
 D:\Research\ASP.NETFramework\MvcMovie\obj\Debug\MvcMovie.Migrations.Rating.resources
 D:\Research\ASP.NETFramework\MvcMovie\obj\Debug\MvcMovie.csproj.GenerateResource.cache
 D:\Research\ASP.NETFramework\MvcMovie\obj\Debug\MvcMovie.Migrations.DataAnotations.resources
+E:\Learning\C#\asp-net-framwork\MvcMovie\obj\Debug\MvcMovie.Migrations.DataAnotations.resources
